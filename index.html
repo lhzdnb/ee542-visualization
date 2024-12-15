@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Data Visualization</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom"></script>
+
+  <!-- 添加样式 -->
+  <style>
+      body {
+          font-family: 'Roboto', sans-serif;
+          background: linear-gradient(135deg, #f0f4f8, #d9e6f2);
+          margin: 0;
+          padding: 0;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          min-height: 100vh;
+          color: #333;
+      }
+
+      h2 {
+          margin: 20px 0;
+          font-size: 1.8rem;
+          color: #555;
+      }
+
+      canvas {
+          margin: 20px 0;
+          max-width: 90%;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          border-radius: 8px;
+          background: white;
+      }
+
+      .container {
+          width: 100%;
+          max-width: 1600px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+      }
+
+      button {
+          margin-top: 20px;
+          padding: 10px 20px;
+          background: #007bff;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          font-size: 1rem;
+          cursor: pointer;
+          transition: background 0.3s ease;
+      }
+
+      button:hover {
+          background: #0056b3;
+      }
+
+      footer {
+          margin-top: 20px;
+          font-size: 0.9rem;
+          color: #777;
+      }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2>Complete Train Data</h2>
+  <canvas id="trainChart" width="1200" height="400"></canvas>
+
+  <h2>Predicted Data vs Train Data</h2>
+  <canvas id="predictedChart" width="1200" height="400"></canvas>
+
+  <h2>Future Predicted Occupancy</h2>
+  <canvas id="futurePredictionChart" width="1200" height="400"></canvas>
+
+  <button onclick="resetZoom()">Reset Zoom</button>
+</div>
+
+<script src="index.js"></script>
+</body>
+</html>

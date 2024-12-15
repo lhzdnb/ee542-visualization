@@ -1,0 +1,602 @@
+[
+    {
+        "hour": 7,
+        "sequential_day": 17,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 17,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 17,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 17,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 17,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 17,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 17,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 17,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 17,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 17,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 17,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 17,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 18,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 18,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 18,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 18,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 18,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 18,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 18,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 18,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 18,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 18,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 18,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 18,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 19,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 19,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 19,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 19,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 19,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 19,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 19,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 19,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 19,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 19,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 19,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 19,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 20,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 20,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 20,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 20,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 20,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 20,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 20,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 20,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 20,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 20,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 20,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 20,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 21,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 21,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 21,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 21,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 21,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 21,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 21,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 21,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 21,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 21,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 21,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 21,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 22,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 22,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 22,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 22,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 22,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 22,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 22,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 22,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 22,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 22,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 22,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 22,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 23,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 23,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 23,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 23,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 23,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 23,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 23,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 23,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 23,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 23,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 23,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 23,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 24,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 24,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 24,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 24,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 24,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 24,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 24,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 24,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 24,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 24,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 24,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 24,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 25,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 25,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 25,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 25,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 25,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 25,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 25,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 25,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 25,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 25,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 25,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 25,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 7,
+        "sequential_day": 26,
+        "predicted_occupancy": 4.41
+    },
+    {
+        "hour": 8,
+        "sequential_day": 26,
+        "predicted_occupancy": 13.1
+    },
+    {
+        "hour": 9,
+        "sequential_day": 26,
+        "predicted_occupancy": 38.77
+    },
+    {
+        "hour": 10,
+        "sequential_day": 26,
+        "predicted_occupancy": 51.43
+    },
+    {
+        "hour": 11,
+        "sequential_day": 26,
+        "predicted_occupancy": 53.22
+    },
+    {
+        "hour": 12,
+        "sequential_day": 26,
+        "predicted_occupancy": 51.64
+    },
+    {
+        "hour": 13,
+        "sequential_day": 26,
+        "predicted_occupancy": 48.08
+    },
+    {
+        "hour": 14,
+        "sequential_day": 26,
+        "predicted_occupancy": 49.24
+    },
+    {
+        "hour": 15,
+        "sequential_day": 26,
+        "predicted_occupancy": 50.43
+    },
+    {
+        "hour": 16,
+        "sequential_day": 26,
+        "predicted_occupancy": 47.33
+    },
+    {
+        "hour": 17,
+        "sequential_day": 26,
+        "predicted_occupancy": 23.5
+    },
+    {
+        "hour": 18,
+        "sequential_day": 26,
+        "predicted_occupancy": 23.5
+    }
+]

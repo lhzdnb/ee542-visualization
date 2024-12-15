@@ -1,0 +1,907 @@
+[
+  {
+    "hour": 7,
+    "occupancy": 6,
+    "sequential_day": 0
+  },
+  {
+    "hour": 8,
+    "occupancy": 16,
+    "sequential_day": 0
+  },
+  {
+    "hour": 9,
+    "occupancy": 45,
+    "sequential_day": 0
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 0
+  },
+  {
+    "hour": 11,
+    "occupancy": 52,
+    "sequential_day": 0
+  },
+  {
+    "hour": 12,
+    "occupancy": 52,
+    "sequential_day": 0
+  },
+  {
+    "hour": 13,
+    "occupancy": 48,
+    "sequential_day": 0
+  },
+  {
+    "hour": 14,
+    "occupancy": 47,
+    "sequential_day": 0
+  },
+  {
+    "hour": 15,
+    "occupancy": 49,
+    "sequential_day": 0
+  },
+  {
+    "hour": 16,
+    "occupancy": 45,
+    "sequential_day": 0
+  },
+  {
+    "hour": 17,
+    "occupancy": 34,
+    "sequential_day": 0
+  },
+  {
+    "hour": 7,
+    "occupancy": 6,
+    "sequential_day": 1
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 1
+  },
+  {
+    "hour": 9,
+    "occupancy": 45,
+    "sequential_day": 1
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 1
+  },
+  {
+    "hour": 11,
+    "occupancy": 53,
+    "sequential_day": 1
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 1
+  },
+  {
+    "hour": 13,
+    "occupancy": 50,
+    "sequential_day": 1
+  },
+  {
+    "hour": 14,
+    "occupancy": 52,
+    "sequential_day": 1
+  },
+  {
+    "hour": 15,
+    "occupancy": 53,
+    "sequential_day": 1
+  },
+  {
+    "hour": 16,
+    "occupancy": 46,
+    "sequential_day": 1
+  },
+  {
+    "hour": 7,
+    "occupancy": 6,
+    "sequential_day": 2
+  },
+  {
+    "hour": 8,
+    "occupancy": 13,
+    "sequential_day": 2
+  },
+  {
+    "hour": 9,
+    "occupancy": 39,
+    "sequential_day": 2
+  },
+  {
+    "hour": 10,
+    "occupancy": 52,
+    "sequential_day": 2
+  },
+  {
+    "hour": 11,
+    "occupancy": 52,
+    "sequential_day": 2
+  },
+  {
+    "hour": 12,
+    "occupancy": 52,
+    "sequential_day": 2
+  },
+  {
+    "hour": 13,
+    "occupancy": 47,
+    "sequential_day": 2
+  },
+  {
+    "hour": 14,
+    "occupancy": 47,
+    "sequential_day": 2
+  },
+  {
+    "hour": 15,
+    "occupancy": 47,
+    "sequential_day": 2
+  },
+  {
+    "hour": 16,
+    "occupancy": 43,
+    "sequential_day": 2
+  },
+  {
+    "hour": 17,
+    "occupancy": 19,
+    "sequential_day": 2
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 3
+  },
+  {
+    "hour": 8,
+    "occupancy": 11,
+    "sequential_day": 3
+  },
+  {
+    "hour": 9,
+    "occupancy": 36,
+    "sequential_day": 3
+  },
+  {
+    "hour": 10,
+    "occupancy": 51,
+    "sequential_day": 3
+  },
+  {
+    "hour": 11,
+    "occupancy": 53,
+    "sequential_day": 3
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 3
+  },
+  {
+    "hour": 13,
+    "occupancy": 46,
+    "sequential_day": 3
+  },
+  {
+    "hour": 14,
+    "occupancy": 46,
+    "sequential_day": 3
+  },
+  {
+    "hour": 15,
+    "occupancy": 50,
+    "sequential_day": 3
+  },
+  {
+    "hour": 16,
+    "occupancy": 46,
+    "sequential_day": 3
+  },
+  {
+    "hour": 17,
+    "occupancy": 5,
+    "sequential_day": 3
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 4
+  },
+  {
+    "hour": 8,
+    "occupancy": 13,
+    "sequential_day": 4
+  },
+  {
+    "hour": 9,
+    "occupancy": 38,
+    "sequential_day": 4
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 4
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 4
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 4
+  },
+  {
+    "hour": 13,
+    "occupancy": 47,
+    "sequential_day": 4
+  },
+  {
+    "hour": 14,
+    "occupancy": 48,
+    "sequential_day": 4
+  },
+  {
+    "hour": 15,
+    "occupancy": 49,
+    "sequential_day": 4
+  },
+  {
+    "hour": 16,
+    "occupancy": 43,
+    "sequential_day": 4
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 5
+  },
+  {
+    "hour": 8,
+    "occupancy": 15,
+    "sequential_day": 5
+  },
+  {
+    "hour": 9,
+    "occupancy": 37,
+    "sequential_day": 5
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 5
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 5
+  },
+  {
+    "hour": 12,
+    "occupancy": 54,
+    "sequential_day": 5
+  },
+  {
+    "hour": 13,
+    "occupancy": 50,
+    "sequential_day": 5
+  },
+  {
+    "hour": 14,
+    "occupancy": 52,
+    "sequential_day": 5
+  },
+  {
+    "hour": 15,
+    "occupancy": 52,
+    "sequential_day": 5
+  },
+  {
+    "hour": 16,
+    "occupancy": 48,
+    "sequential_day": 5
+  },
+  {
+    "hour": 7,
+    "occupancy": 4,
+    "sequential_day": 6
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 6
+  },
+  {
+    "hour": 9,
+    "occupancy": 44,
+    "sequential_day": 6
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 6
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 6
+  },
+  {
+    "hour": 12,
+    "occupancy": 54,
+    "sequential_day": 6
+  },
+  {
+    "hour": 13,
+    "occupancy": 50,
+    "sequential_day": 6
+  },
+  {
+    "hour": 14,
+    "occupancy": 52,
+    "sequential_day": 6
+  },
+  {
+    "hour": 15,
+    "occupancy": 52,
+    "sequential_day": 6
+  },
+  {
+    "hour": 16,
+    "occupancy": 47,
+    "sequential_day": 6
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 7
+  },
+  {
+    "hour": 8,
+    "occupancy": 12,
+    "sequential_day": 7
+  },
+  {
+    "hour": 9,
+    "occupancy": 37,
+    "sequential_day": 7
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 7
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 7
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 7
+  },
+  {
+    "hour": 13,
+    "occupancy": 49,
+    "sequential_day": 7
+  },
+  {
+    "hour": 14,
+    "occupancy": 50,
+    "sequential_day": 7
+  },
+  {
+    "hour": 15,
+    "occupancy": 52,
+    "sequential_day": 7
+  },
+  {
+    "hour": 16,
+    "occupancy": 47,
+    "sequential_day": 7
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 8
+  },
+  {
+    "hour": 8,
+    "occupancy": 13,
+    "sequential_day": 8
+  },
+  {
+    "hour": 9,
+    "occupancy": 43,
+    "sequential_day": 8
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 8
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 8
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 8
+  },
+  {
+    "hour": 13,
+    "occupancy": 47,
+    "sequential_day": 8
+  },
+  {
+    "hour": 14,
+    "occupancy": 48,
+    "sequential_day": 8
+  },
+  {
+    "hour": 15,
+    "occupancy": 47,
+    "sequential_day": 8
+  },
+  {
+    "hour": 16,
+    "occupancy": 40,
+    "sequential_day": 8
+  },
+  {
+    "hour": 7,
+    "occupancy": 4,
+    "sequential_day": 9
+  },
+  {
+    "hour": 8,
+    "occupancy": 13,
+    "sequential_day": 9
+  },
+  {
+    "hour": 9,
+    "occupancy": 32,
+    "sequential_day": 9
+  },
+  {
+    "hour": 10,
+    "occupancy": 44,
+    "sequential_day": 9
+  },
+  {
+    "hour": 11,
+    "occupancy": 51,
+    "sequential_day": 9
+  },
+  {
+    "hour": 12,
+    "occupancy": 50,
+    "sequential_day": 9
+  },
+  {
+    "hour": 13,
+    "occupancy": 42,
+    "sequential_day": 9
+  },
+  {
+    "hour": 14,
+    "occupancy": 42,
+    "sequential_day": 9
+  },
+  {
+    "hour": 15,
+    "occupancy": 44,
+    "sequential_day": 9
+  },
+  {
+    "hour": 16,
+    "occupancy": 39,
+    "sequential_day": 9
+  },
+  {
+    "hour": 7,
+    "occupancy": 1,
+    "sequential_day": 10
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 10
+  },
+  {
+    "hour": 9,
+    "occupancy": 39,
+    "sequential_day": 10
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 10
+  },
+  {
+    "hour": 11,
+    "occupancy": 53,
+    "sequential_day": 10
+  },
+  {
+    "hour": 12,
+    "occupancy": 52,
+    "sequential_day": 10
+  },
+  {
+    "hour": 13,
+    "occupancy": 45,
+    "sequential_day": 10
+  },
+  {
+    "hour": 14,
+    "occupancy": 47,
+    "sequential_day": 10
+  },
+  {
+    "hour": 15,
+    "occupancy": 48,
+    "sequential_day": 10
+  },
+  {
+    "hour": 16,
+    "occupancy": 44,
+    "sequential_day": 10
+  },
+  {
+    "hour": 17,
+    "occupancy": 32,
+    "sequential_day": 10
+  },
+  {
+    "hour": 7,
+    "occupancy": 4,
+    "sequential_day": 11
+  },
+  {
+    "hour": 8,
+    "occupancy": 11,
+    "sequential_day": 11
+  },
+  {
+    "hour": 9,
+    "occupancy": 44,
+    "sequential_day": 11
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 11
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 11
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 11
+  },
+  {
+    "hour": 13,
+    "occupancy": 48,
+    "sequential_day": 11
+  },
+  {
+    "hour": 14,
+    "occupancy": 52,
+    "sequential_day": 11
+  },
+  {
+    "hour": 15,
+    "occupancy": 54,
+    "sequential_day": 11
+  },
+  {
+    "hour": 16,
+    "occupancy": 52,
+    "sequential_day": 11
+  },
+  {
+    "hour": 17,
+    "occupancy": 41,
+    "sequential_day": 11
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 12
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 12
+  },
+  {
+    "hour": 9,
+    "occupancy": 35,
+    "sequential_day": 12
+  },
+  {
+    "hour": 10,
+    "occupancy": 51,
+    "sequential_day": 12
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 12
+  },
+  {
+    "hour": 12,
+    "occupancy": 51,
+    "sequential_day": 12
+  },
+  {
+    "hour": 13,
+    "occupancy": 48,
+    "sequential_day": 12
+  },
+  {
+    "hour": 14,
+    "occupancy": 49,
+    "sequential_day": 12
+  },
+  {
+    "hour": 15,
+    "occupancy": 50,
+    "sequential_day": 12
+  },
+  {
+    "hour": 16,
+    "occupancy": 47,
+    "sequential_day": 12
+  },
+  {
+    "hour": 17,
+    "occupancy": 17,
+    "sequential_day": 12
+  },
+  {
+    "hour": 7,
+    "occupancy": 3,
+    "sequential_day": 13
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 13
+  },
+  {
+    "hour": 9,
+    "occupancy": 44,
+    "sequential_day": 13
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 13
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 13
+  },
+  {
+    "hour": 12,
+    "occupancy": 54,
+    "sequential_day": 13
+  },
+  {
+    "hour": 13,
+    "occupancy": 49,
+    "sequential_day": 13
+  },
+  {
+    "hour": 14,
+    "occupancy": 49,
+    "sequential_day": 13
+  },
+  {
+    "hour": 15,
+    "occupancy": 53,
+    "sequential_day": 13
+  },
+  {
+    "hour": 16,
+    "occupancy": 49,
+    "sequential_day": 13
+  },
+  {
+    "hour": 17,
+    "occupancy": 41,
+    "sequential_day": 13
+  },
+  {
+    "hour": 7,
+    "occupancy": 6,
+    "sequential_day": 14
+  },
+  {
+    "hour": 8,
+    "occupancy": 12,
+    "sequential_day": 14
+  },
+  {
+    "hour": 9,
+    "occupancy": 39,
+    "sequential_day": 14
+  },
+  {
+    "hour": 10,
+    "occupancy": 54,
+    "sequential_day": 14
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 14
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 14
+  },
+  {
+    "hour": 13,
+    "occupancy": 45,
+    "sequential_day": 14
+  },
+  {
+    "hour": 14,
+    "occupancy": 46,
+    "sequential_day": 14
+  },
+  {
+    "hour": 15,
+    "occupancy": 47,
+    "sequential_day": 14
+  },
+  {
+    "hour": 16,
+    "occupancy": 44,
+    "sequential_day": 14
+  },
+  {
+    "hour": 17,
+    "occupancy": 36,
+    "sequential_day": 14
+  },
+  {
+    "hour": 7,
+    "occupancy": 5,
+    "sequential_day": 15
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 15
+  },
+  {
+    "hour": 9,
+    "occupancy": 39,
+    "sequential_day": 15
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 15
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 15
+  },
+  {
+    "hour": 12,
+    "occupancy": 54,
+    "sequential_day": 15
+  },
+  {
+    "hour": 13,
+    "occupancy": 49,
+    "sequential_day": 15
+  },
+  {
+    "hour": 14,
+    "occupancy": 50,
+    "sequential_day": 15
+  },
+  {
+    "hour": 15,
+    "occupancy": 52,
+    "sequential_day": 15
+  },
+  {
+    "hour": 16,
+    "occupancy": 49,
+    "sequential_day": 15
+  },
+  {
+    "hour": 17,
+    "occupancy": 37,
+    "sequential_day": 15
+  },
+  {
+    "hour": 7,
+    "occupancy": 8,
+    "sequential_day": 16
+  },
+  {
+    "hour": 8,
+    "occupancy": 14,
+    "sequential_day": 16
+  },
+  {
+    "hour": 9,
+    "occupancy": 46,
+    "sequential_day": 16
+  },
+  {
+    "hour": 10,
+    "occupancy": 53,
+    "sequential_day": 16
+  },
+  {
+    "hour": 11,
+    "occupancy": 54,
+    "sequential_day": 16
+  },
+  {
+    "hour": 12,
+    "occupancy": 53,
+    "sequential_day": 16
+  },
+  {
+    "hour": 13,
+    "occupancy": 48,
+    "sequential_day": 16
+  },
+  {
+    "hour": 14,
+    "occupancy": 48,
+    "sequential_day": 16
+  },
+  {
+    "hour": 15,
+    "occupancy": 49,
+    "sequential_day": 16
+  },
+  {
+    "hour": 16,
+    "occupancy": 46,
+    "sequential_day": 16
+  },
+  {
+    "hour": 17,
+    "occupancy": 36,
+    "sequential_day": 16
+  },
+  {
+    "hour": 18,
+    "occupancy": 4,
+    "sequential_day": 16
+  }
+]
