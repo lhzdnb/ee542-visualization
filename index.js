@@ -11,7 +11,6 @@ async function fetchData() {
   return { predictedData, trainData, futurePredictionData };
 }
 
-// 数据处理函数
 function processPredictedData(predictedData) {
   const labels = [];
   const predictedValues = [];
@@ -51,15 +50,10 @@ function processFuturePredictionData(data) {
   return { labels, predictedOccupancy };
 }
 
-// 主逻辑：加载数据并生成图表
 fetchData().then(({ predictedData, trainData, futurePredictionData }) => {
-  // 处理 Predicted 数据
   const { labels: predictedLabels, predictedValues } = processPredictedData(predictedData);
-
-  // 处理 Train 数据
   const { labels: trainLabels, trainValues } = processTrainData(trainData);
 
-  // 第一张图表：Train 数据
   const trainCtx = document.getElementById('trainChart').getContext('2d');
   new Chart(trainCtx, {
     type: 'line',
@@ -92,7 +86,6 @@ fetchData().then(({ predictedData, trainData, futurePredictionData }) => {
     },
   });
 
-  // 第二张图表：Predicted 数据与 Train 数据
   const predictedCtx = document.getElementById('predictedChart').getContext('2d');
   new Chart(predictedCtx, {
     type: 'line',
@@ -132,10 +125,8 @@ fetchData().then(({ predictedData, trainData, futurePredictionData }) => {
     },
   });
 
-  // 处理 Future Prediction 数据
   const { labels: futureLabels, predictedOccupancy } = processFuturePredictionData(futurePredictionData);
 
-  // 第三张图表：Future Prediction 数据
   const futureCtx = document.getElementById('futurePredictionChart').getContext('2d');
   new Chart(futureCtx, {
     type: 'line',
